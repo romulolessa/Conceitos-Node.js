@@ -16,23 +16,22 @@ ignite-template-conceitos-do-nodejs
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+## 👨‍💻 Iniciando o projeto
+
+para instalar as dependencias do projeto
+
+` npm i `
+
+para rodar o projeto
+
+`npm run dev`
+
+para fazer o teste das suas respostas
+
+`npm run test`
+
 ---
 
 <p align="center">
-  Feito com 💜 by Rocketseat
+  Feito by Romulo Lessa
 </p>
-
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
-

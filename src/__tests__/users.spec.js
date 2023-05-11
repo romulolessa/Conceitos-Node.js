@@ -1,5 +1,5 @@
-const request = require('supertest');
-const { validate } = require('uuid');
+import { validate } from 'node:crypto'
+import request from 'supertest'
 
 const app = require('../');
 

@@ -1,6 +1,7 @@
 {
-  "name": "desafio",
+  "name": "Trilha 2021 - desafio",
   "version": "1.0.0",
+  "type": "module",
   "main": "src/server.js",
   "license": "MIT",
   "scripts": {
